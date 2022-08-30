@@ -1,4 +1,7 @@
-database
-  user: gabi
-  password: 123456
+database: 
+  user: gabriela
+  password: 235689
+server: 
+  port: 8821
+ 
  
